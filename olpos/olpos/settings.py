@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-04(+gs=8woxl3a9=cg@$dw64xc7cc00ajm%_e90lrdf$vx0=0o
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['olposjasper.pythonanywhere.com', '127,0.0.1']
+ALLOWED_HOSTS = ['olposjasper.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
